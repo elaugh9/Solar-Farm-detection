@@ -1,6 +1,6 @@
 # Solar-Farm-detection
 In this project, we propose, optimize, and validate a deep learning framework to detect and map solar farms using a state-of-the-art semantic segmentation convolutional neural network applied to satellite imagery. As a final step in the pipeline, we propose a model to estimate the energy generation capacity of the detected solar energy facilities. Objectively, the deep learning model achieved highly competitive performance indicators, including a mean accuracy of 96.87%, and a Jaccard Index (intersection over union of classified pixels) score of 95.5%. 
-<br /> Code:
+<br /><br /> Code:
 <br /> **train.ipynb:** to train the semantic segmentation model to map and locate pv panels 
 <br /> **test.ipynb:** to assess the model's perdformance on unseen data 
 <br /> **unet-model.py:** semantic segmentation model architecture 
